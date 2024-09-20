@@ -72,7 +72,7 @@ def escolher_opcao():
         if opcao_escolhida == 1:
             cadastrar_novo_restaurante()
         elif opcao_escolhida == 2:
-            Listar_restaurante()
+            listar_restaurantes()
         elif opcao_escolhida == 3:
             alternar_estado_restaurante()
         elif opcao_escolhida == 4:
